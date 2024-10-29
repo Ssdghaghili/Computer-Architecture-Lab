@@ -1,0 +1,14 @@
+-rootPath
+/Users/sadeghmacbook/rrfrrr
+-cmake-output
+-output-file
+/Users/sadeghmacbook/rrfrrr/build/add1-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apprrfrrr.cmake
+-importPath
+/Users/sadeghmacbook/rrfrrr/build/add1-Debug/rrfrrr
+-importPath
+/Users/sadeghmacbook/rrfrrr/build/add1-Debug
+-importPath
+/Users/sadeghmacbook/Qt/6.5.3/macos/./qml
+-qrcFiles
+/Users/sadeghmacbook/rrfrrr/build/add1-Debug/.rcc/qmake_rrfrrr.qrc
+/Users/sadeghmacbook/rrfrrr/build/add1-Debug/.rcc/apprrfrrr_raw_qml_0.qrc
