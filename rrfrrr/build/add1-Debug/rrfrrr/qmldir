@@ -1,5 +1,0 @@
-module rrfrrr
-typeinfo apprrfrrr.qmltypes
-prefer :/qt/qml/rrfrrr/
-Main 1.0 Main.qml
-
